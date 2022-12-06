@@ -1,0 +1,78 @@
+* {
+border:0;
+padding:0;
+}
+
+body{
+height:100%;
+background-color: lightgrey;
+}
+
+a{
+text-decoration:none;
+font-size:18px;
+font-weight:bold;
+}
+
+.DecNav a{
+    position: absolute; 
+    left: -85px; 
+    transition: 0.3s; 
+    padding: 15px; 
+    width: 100px; 
+    color: black; 
+    text-align: center;
+    border-radius:10px;
+}
+
+.DecNav a:hover{
+left:0;
+}
+
+.one{
+    top:20px;
+    background-color:pink;
+}
+
+.two{
+top:75px;
+background-color:aquamarine;
+}
+
+.three{
+top:130px;
+background-color:#FFCC33;
+}
+
+.four{
+top:185px;
+background-color:blue;
+}
+
+.five{
+top:240px;
+background-color:magenta;
+}
+
+.six{
+top:295px;
+background-color:lightsalmon;
+}
+
+.seven{
+top:350px;
+background-color:palevioletred;
+
+}
+
+nav{
+top:5px;
+}
+
+h2{
+text-align:center;
+}
+
+p{
+text-align:center;
+}
